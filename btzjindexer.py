@@ -26,7 +26,7 @@ class Btzj(_IPluginModule):
     # 插件作者
     module_author = "me"
     # 作者主页
-    author_url = "https://github.com/jxxghp"
+    author_url = "https://github.com/PterX/nas-tools-plugins"
     # 插件配置项ID前缀
     module_config_prefix = "btzjindexer_"
     # 加载顺序
